@@ -1,13 +1,13 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <html>
-    <title>Specifications Table</title>
     <head>
+        <title>Specifications Table</title>
+    </head>
+    <body>
         <h1>Name:Lohitashwa S</h1>
         <br>
         <h2>Reg.no:26015531</h2>
-    </head>
-    <body>
         <table border="2" cellspacing="10" cellpadding="6">
             <caption>Laptop Specifications</caption>
             <tr>
